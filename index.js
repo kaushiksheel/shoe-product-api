@@ -158,7 +158,7 @@ const Shoes=[
     {
         "id":17,
         "name":"Puma Perforated Low Men's IDP Shoes",
-        "price":"871",
+        "price":"$871",
         "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/372981/01/sv01/fnd/IND/fmt/png/Puma-Perforated-Low-Men's--IDP-Shoes",
         "description":'With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex. With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family.',
                 "quantity":1
@@ -167,7 +167,7 @@ const Shoes=[
     {
         "id":18,
         "name":"RS-2K Internet Exploring Sneakers",
-        "price":"971",
+        "price":"$971",
         "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/373309/21/sv01/fnd/IND/fmt/png/RS-2K-Internet-Exploring-Sneakers",
         "description":'With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex. With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family.',
                 "quantity":1
@@ -176,7 +176,7 @@ const Shoes=[
     {
         "id":19,
         "name":"X-Ray 2 Square IMEVA SoftFoam+ Shoes",
-        "price":"271",
+        "price":"$271",
         "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/373108/13/sv01/fnd/IND/fmt/png/X-Ray-2-Square-IMEVA-SoftFoam+-Shoes",
         "description":'With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex. With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family.',
                 "quantity":1
@@ -185,7 +185,7 @@ const Shoes=[
     {
         "id":20,
         "name":"Future Rider International Game Shoes",
-        "price":"171",
+        "price":"$171",
         "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/375971/01/sv01/fnd/IND/fmt/png/Future-Rider-International-Game-Shoes",
         "description":'With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex. With design elements inspired by the movement and motion of city life, the Wild Rider Layers Unisex Sneakers brings a fresh new dimension to the iconic Rider family.',
                 "quantity":1
