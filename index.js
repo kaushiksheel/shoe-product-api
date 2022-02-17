@@ -209,15 +209,7 @@ const Shoes=[
                 "quantity":1
        
     },
-    {
-        "id":23,
-        "name":"ZX 2K Boost 2.0 Trail Shoes",
-        "price":571,
-        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/06dcf7e2969045b48da6ad5500f501bf_9366/ZX_2K_Boost_2.0_Trail_Shoes_Green_GZ7784_01_standard.jpg",
-        "description":"The daily commute. The walk to the coffee shop. The off hours when you're free to roam. When life takes you out into the city, these adidas shoes help you cruise. Built on the innovative ZX line and infused with the technical vibe of trail shoes, they have a responsive Boost midsole, a grippy outsole and a warm lining. We're talking all-day comfort here." ,
-                "quantity":1
-       
-    },
+  
     {
         "id":24,
         "name":"PREDATOR FREAK .3 FG J",
