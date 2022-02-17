@@ -191,6 +191,51 @@ const Shoes=[
                 "quantity":1
        
     },
+    {
+        "id":21,
+        "name":"Sl 20.2 Shoes",
+        "price":871,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/ad53e2abade1464bb0dcad0c00aaafec_9366/SL20.2_Shoes_Orange_Q46187_01_standard.jpg",
+        "description":"Dare to be bold. We've rebooted the RS design to take it to a whole new level. We've stripped it back to down basics and rebuilding it with more extreme mixes of colour and materials for a 3x stronger retro-meets-the-future look. PUMA's Running System is the engine under the bonnet, providing comfort and cushioning with every step." ,
+                "quantity":1
+       
+    },
+    {
+        "id":22,
+        "name":"ZX 2K Boost 2.0 Trail Shoes",
+        "price":571,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/06dcf7e2969045b48da6ad5500f501bf_9366/ZX_2K_Boost_2.0_Trail_Shoes_Green_GZ7784_01_standard.jpg",
+        "description":"The daily commute. The walk to the coffee shop. The off hours when you're free to roam. When life takes you out into the city, these adidas shoes help you cruise. Built on the innovative ZX line and infused with the technical vibe of trail shoes, they have a responsive Boost midsole, a grippy outsole and a warm lining. We're talking all-day comfort here." ,
+                "quantity":1
+       
+    },
+    {
+        "id":23,
+        "name":"ZX 2K Boost 2.0 Trail Shoes",
+        "price":571,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/06dcf7e2969045b48da6ad5500f501bf_9366/ZX_2K_Boost_2.0_Trail_Shoes_Green_GZ7784_01_standard.jpg",
+        "description":"The daily commute. The walk to the coffee shop. The off hours when you're free to roam. When life takes you out into the city, these adidas shoes help you cruise. Built on the innovative ZX line and infused with the technical vibe of trail shoes, they have a responsive Boost midsole, a grippy outsole and a warm lining. We're talking all-day comfort here." ,
+                "quantity":1
+       
+    },
+    {
+        "id":24,
+        "name":"PREDATOR FREAK .3 FG J",
+        "price":1571,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/ae95d399b7d446a4afd7ac7700d4d30d_9366/PREDATOR_FREAK_.3_FG_J_Black_FW7530_01_standard.jpg",
+        "description":"Dare to be bold. We've rebooted the RS design to take it to a whole new level. We've stripped it back to down basics and rebuilding it with more extreme mixes of colour and materials for a 3x stronger retro-meets-the-future look." ,
+                "quantity":1
+       
+    },
+    {
+        "id":25,
+        "name":"Defiant Generation multicourt tennis shoes",
+        "price":971,
+        "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/49a9781d4d9c46629e9dabad00dd154b_9366/Defiant_Generation_multicourt_tennis_shoes_Pink_FX5814_01_standard.jpg",
+        "description":"Who says you can't have it all? Lace up these adidas Defiant Generation tennis shoes to raise your game. The foot-hugging upper and cushioned midsole combine to keep you comfortable as you express yourself on the court. The durable outsole and abrasion-resistant toe easily stand up to your all-action game." ,
+                "quantity":1
+       
+    },
 ]
 
 app.get('/',(req,res)=>{
