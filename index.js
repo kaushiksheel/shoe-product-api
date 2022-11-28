@@ -20,7 +20,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/shoes',(req,res)=>{
-    res.send(Shoes.reverse())
+    res.send(Shoes)
 
     
 })
